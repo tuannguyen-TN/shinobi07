@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tuan Nguyen. I am currently a sophomore in Software Engineering at TAMK.
+- 👋 Hi, I’m Tuan Nguyen. I am currently a rising junior in Software Engineering at TAMK.
 - 👀 I’m interested in Machine Learning and Neural Networks.
-- 🌱 I’m currently learning Data structures and algorithms, Machine Learning.
+- 🌱 I’m currently learning Data structures and Algorithms, and more in Machine Learning.
 - 📫 You can find me via LinkedIn at https://www.linkedin.com/in/shinobi07/
 
 <!---
